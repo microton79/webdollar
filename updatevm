@@ -1,0 +1,2 @@
+echo "cd /root/Node-WebDollar/src/node/sockets/node-clients/service/discovery/fallbacks/
+curl -O https://raw.githubusercontent.com/microton79/webdollar/main/fallback_nodes_list.js" >> /bin/getconsts
